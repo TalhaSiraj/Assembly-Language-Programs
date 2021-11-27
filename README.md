@@ -1,3 +1,3 @@
 # Assembly-Language-Programs
 
-This Repository Has My Work On Assembly language.
+This repository has my work on Assembly language.
